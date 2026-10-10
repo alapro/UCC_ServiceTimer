@@ -1,0 +1,16 @@
+# Carpetas de compilación
+Debug/
+Release/
+
+# Archivos generados
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.hex
+*.bin
+
+# Configuración local del IDE
+.metadata/
+*.launch.bak
